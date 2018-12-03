@@ -1,1 +1,12 @@
 
+{:navgroup: .navgroup}
+{:topicgroup: .topicgroup}
+{:download: .download}
+
+{: .toc subcollection="weather" audience="service" href="/docs/services/Weather/index.html" path="services/Weather"}
+Weather Company Data
+
+    {: .navgroup id="learn"}
+    index.md
+    {: .navgroup-end}
+
