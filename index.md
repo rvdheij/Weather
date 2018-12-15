@@ -91,16 +91,16 @@ Failure to enter proper credentials results in an *Unauthorized* message in the 
 
 ## compatible runtimes
 {: #buildpacks}
-* [Liberty for Java](https://console.{DomainName}/docs/runtimes/liberty/index.html){: new_window}
-* [Node.js](https://console.{DomainName}/docs/runtimes/nodejs/index.html){: new_window}
-* [Ruby](https://console.{DomainName}/docs/runtimes/ruby/index.html){: new_window}
-* [Go](https://console.{DomainName}/docs/runtimes/go/index.html){: new_window}
-* [PHP](https://console.{DomainName}/docs/runtimes/php/index.html){: new_window}
-* [Python](https://console.{DomainName}/docs/runtimes/python/index.html){: new_window}
+* [Liberty for Java](https://{DomainName}/docs/runtimes/liberty/index.html){: new_window}
+* [Node.js](https://{DomainName}/docs/runtimes/nodejs/index.html){: new_window}
+* [Ruby](https://{DomainName}/docs/runtimes/ruby/index.html){: new_window}
+* [Go](https://{DomainName}/docs/runtimes/go/index.html){: new_window}
+* [PHP](https://{DomainName}/docs/runtimes/php/index.html){: new_window}
+* [Python](https://{DomainName}/docs/runtimes/python/index.html){: new_window}
 
 ## general
 {: #general}
 * [Adding a service to your application](/docs/services/reqnsi.html){: new_window}
-* [End-to-end development](https://console.{DomainName}/docs/cfapps/ee.html){: new_window}
-* [{{site.data.keyword.Bluemix_notm}} Pricing Sheet](https://console.{DomainName}/pricing/){: new_window}
+* [End-to-end development](https://{DomainName}/docs/cfapps/ee.html){: new_window}
+* [{{site.data.keyword.Bluemix_notm}} Pricing Sheet](https://{DomainName}/pricing/){: new_window}
 * [{{site.data.keyword.Bluemix_notm}} Prerequisites](https://developer.ibm.com/bluemix/support/#prereqs){: new_window}
